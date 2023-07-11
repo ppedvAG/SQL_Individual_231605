@@ -44,8 +44,8 @@
           <FullPath>04_DBSettings.sql</FullPath>
         </FileNode>
         <FileNode Name="06_DB_Objekte.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>06_DB_Objekte.sql</FullPath>
         </FileNode>
