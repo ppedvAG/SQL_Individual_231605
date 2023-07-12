@@ -43,11 +43,35 @@
           <AssociatedConnUserName />
           <FullPath>04_DBSettings.sql</FullPath>
         </FileNode>
+        <FileNode Name="05_Kompression.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05_Kompression.sql</FullPath>
+        </FileNode>
         <FileNode Name="06_DB_Objekte.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>06_DB_Objekte.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21_Kompression.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>21_Kompression.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22_part Sicht.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>22_part Sicht.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23_Partitionierung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>23_Partitionierung.sql</FullPath>
         </FileNode>
         <FileNode Name="Fix_VLFs.sql">
           <AssociatedConnectionMoniker />
@@ -56,10 +80,16 @@
           <FullPath>Fix_VLFs.sql</FullPath>
         </FileNode>
         <FileNode Name="Seiten und Blöcke.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Seiten und Blöcke.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Spieltabelle.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Spieltabelle.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery1.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
